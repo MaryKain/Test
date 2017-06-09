@@ -11,7 +11,7 @@
 
 <body>
     <p>Hello World!</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi distinctio minima fugit, provident non, minus dolorem quibusdam ex odio ut ipsum doloremque odit ipsa labore assumenda corporis, deserunt aut sunt.</p>
+    <p>Lorem <span> Good morning</span>t. Eligendi distinctio minima fugit, provident <a href="#">Google</a>, minus dolorem quibusdam ex odio ut ipsum doloremque odit ipsa labore assumenda corporis, deserunt aut sunt.</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium minus at est aut corrupti, ipsa quas quis facilis praesentium! Nemo ducimus accusantium sit perspiciatis reiciendis laborum corrupti id, dolor nesciunt.</p>
     <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni reiciendis voluptate nostrum a recusandae cum sunt, consectetur temporibus perferendis non mollitia quibusdam atque? Recusandae ducimus, pariatur praesentium, porro repudiandae quas.</h1>
     <div>Test1
@@ -20,6 +20,7 @@
         </div>
         <div class="text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quod culpa eveniet sed delectus aliquam nobis natus animi cumque, consectetur architecto labore harum sunt. Accusamus obcaecati aspernatur alias non cupiditate earum hic cumque debitis
             sit sint, delectus error nostrum accusantium, nesciunt, expedita quo rerum, deleniti cum atque iste quas consequatur.</div>
+
 
     <script src="js/script.js"></script>
 </body>
